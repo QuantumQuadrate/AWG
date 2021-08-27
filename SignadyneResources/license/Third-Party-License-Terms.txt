@@ -1,0 +1,202 @@
+﻿Third Party Software Attributions, Copyrights, Licenses and Disclosure
+                      (Updated as of December 15th, 2015)
+                             Signadyne Software
+Certain open source or other third party software components are integrated 
+and/or redistributed with various release of the Signadyne software. Such 
+third party components include terms and conditions, such as attribution 
+and liability disclaimers (collectively “3rd Party Disclosure”,) that are 
+required by their respective owners to be enforced with respect to their 
+components, and that are in addition to or different from the terms of the 
+Signadyne license agreement. This document sets forth such 3rd Party 
+Disclosure for the Signadyne software as of the date set forth above. 
+SIGNADYNE MAKES NO REPRESENTATION, WARRANTY OR OTHER COMMITMENT REGARDING 
+SUCH THIRD PARTY COMPONENTS. SIGNADYNE HEREBY DISCLAIMS, TO THE FULLEST 
+EXTENT PERMITTED BY LAW, ANY AND ALL LIABILITY WITH RESPECT TO SUCH THIRD 
+PARTY COMPONENTS.
+
+--------------------------------------------------------------------------------
+Qt Libraries Version 4.8 and 5.3
+--------------------------------------------------------------------------------
+Website: http://www.qt.io/
+
+          GNU LESSER GENERAL PUBLIC LICENSE
+
+ The Qt Toolkit is Copyright (C) 2014 Digia Plc and/or its subsidiary(-ies).
+
+ Contact: http://www.qt-project.org/legal
+
+ You may use, distribute and copy the Qt GUI Toolkit under the terms of
+
+ GNU Lesser General Public License version 2.1, which is displayed below.
+---------------
+Digia Qt LGPL Exception version 1.1
+
+As an additional permission to the GNU Lesser General Public License version
+2.1, the object code form of a "work that uses the Library" may incorporate
+material from a header file that is part of the Library.  You may distribute
+such object code under terms of your choice, provided that:
+    (i)   the header files of the Library have not been modified; and
+    (ii)  the incorporated material is limited to numerical parameters, data
+          structure layouts, accessors, macros, inline functions and
+          templates; and
+    (iii) you comply with the terms of Section 6 of the GNU Lesser General
+          Public License version 2.1.
+
+Moreover, you may apply this exception to a modified version of the Library,
+provided that such modification does not involve copying material from the
+Library into the modified Library's header files unless such material is
+limited to (i) numerical parameters; (ii) data structure layouts;
+(iii) accessors; and (iv) small macros, templates and inline functions of
+five lines or less in length.
+
+Furthermore, you are not required to apply this additional permission to a
+modified version of the Library.
+------------
+Modifications to the Qt libary are included in QtSDE.dll. The source code of the Qt 
+libraries and the modifications are available upon request. Please contact 
+info@signadyne.com.
+
+--------------------------------------------------------------------------------
+The Qwt Widget Library Version 6.0.1
+--------------------------------------------------------------------------------
+Website: http://qwt.sf.net
+
+    Qwt Widget Library 
+    Copyright (C) 1997   Josef Wilgen
+    Copyright (C) 2002   Uwe Rathmann
+
+    Qwt is published under the Qwt License, Version 1.0.
+    You should have received a copy of this licence in the file
+    COPYING.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+------------
+The source code of the Qwt library is available upon request. Please contact 
+info@signadyne.com.	
+
+--------------------------------------------------------------------------------
+Crypto++® Library 5.6.2
+--------------------------------------------------------------------------------
+Website: https://www.cryptopp.com/
+
+Crypto++ Library is copyrighted as a compilation and (as of version 5.6.2) 
+licensed under the Boost Software License 1.0, while the individual files 
+in the compilation are all public domain.
+
+--------------------------------------------------------------------------------
+FFTReal Version 2.11
+--------------------------------------------------------------------------------
+Website: http://ldesoras.free.fr/prod.html
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+  
+--------------------------------------------------------------------------------
+openCV Version 2.4.10
+--------------------------------------------------------------------------------
+Website: http://opencv.org/
+
+                      License Agreement
+               For Open Source Computer Vision Library
+                       (3-clause BSD License)
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the names of the copyright holders nor the names of the contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+This software is provided by the copyright holders and contributors "as is" and
+any express or implied warranties, including, but not limited to, the implied
+warranties of merchantability and fitness for a particular purpose are disclaimed.
+In no event shall copyright holders or contributors be liable for any direct,
+indirect, incidental, special, exemplary, or consequential damages
+(including, but not limited to, procurement of substitute goods or services;
+loss of use, data, or profits; or business interruption) however caused
+and on any theory of liability, whether in contract, strict liability,
+or tort (including negligence or otherwise) arising in any way out of
+the use of this software, even if advised of the possibility of such damage.
+
+--------------------------------------------------------------------------------
+"inih" library
+--------------------------------------------------------------------------------
+Website: https://github.com/benhoyt/inih
+
+The "inih" library is distributed under the New BSD license:
+
+Copyright (c) 2009, Ben Hoyt
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of Ben Hoyt nor the names of its contributors
+      may be used to endorse or promote products derived from this software
+      without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY BEN HOYT ''AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL BEN HOYT BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+pugixml library version 1.7
+--------------------------------------------------------------------------------
+Website: http://pugixml.org/
+
+This library is available to anybody free of charge, under the terms of MIT 
+License:
+
+Copyright (c) 2006-2015 Arseny Kapoulkine
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of 
+this software and associated documentation files (the “Software”), to deal in 
+the Software without restriction, including without limitation the rights to 
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies 
+of the Software, and to permit persons to whom the Software is furnished to do 
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in 
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
+ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This software is based on pugixml library (http://pugixml.org). pugixml is 
+Copyright (C) 2006-2015 Arseny Kapoulkine.

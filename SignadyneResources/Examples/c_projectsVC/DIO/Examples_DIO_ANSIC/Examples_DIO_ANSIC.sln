@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo_DWG_StrobeOut_WithTrigger", "Demo_DWG_StrobeOut_WithTrigger\Demo_DWG_StrobeOut_WithTrigger.vcproj", "{3A98D74F-D3FB-411A-8396-5A0E5A71B7D9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo_DAQwithoutBuffers", "Demo_DAQwithoutBuffers\Demo_DAQwithoutBuffers.vcproj", "{29B00298-6CDA-46A5-AE52-B34895551A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A98D74F-D3FB-411A-8396-5A0E5A71B7D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A98D74F-D3FB-411A-8396-5A0E5A71B7D9}.Debug|Win32.Build.0 = Debug|Win32
+		{3A98D74F-D3FB-411A-8396-5A0E5A71B7D9}.Release|Win32.ActiveCfg = Release|Win32
+		{3A98D74F-D3FB-411A-8396-5A0E5A71B7D9}.Release|Win32.Build.0 = Release|Win32
+		{29B00298-6CDA-46A5-AE52-B34895551A14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29B00298-6CDA-46A5-AE52-B34895551A14}.Debug|Win32.Build.0 = Debug|Win32
+		{29B00298-6CDA-46A5-AE52-B34895551A14}.Release|Win32.ActiveCfg = Release|Win32
+		{29B00298-6CDA-46A5-AE52-B34895551A14}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

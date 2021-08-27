@@ -1,0 +1,10 @@
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\bin\Debug\DemoHVI.exe
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\bin\Debug\DemoHVI.pdb
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\ResolveAssemblyReference.cache
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\DemoHVI.Form1.resources
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\DemoHVI.Properties.Resources.resources
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\DemoHVI.csproj.GenerateResource.Cache
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\DemoHVI.exe
+C:\Software_local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\obj\Debug\DemoHVI.pdb
+C:\Software_Local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\bin\Debug\Signadyne.dll
+C:\Software_Local\Examples\VisualStudio\VS2008\C#\DemoHVI\DemoHVI\bin\Debug\Signadyne.pdb

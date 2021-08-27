@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<dpInst>
+	<dpinstTitle>Signadyne Driver Installer</dpinstTitle>
+	<welcomeTitle>Welcome to the Signadyne Driver Installer for Windows XP!</welcomeTitle>
+	<welcomeIntro>This wizard will walk you through updating the drivers for your Signadyne modules.</welcomeIntro>
+<!--
+	<eulaHeaderTitle>End User License Agreement</eulaHeaderTitle>
+	<eulaYesButton>I &amp;accept this EULA</eulaYesButton>
+	<eulaNoButton>I do n&amp;ot accept this EULA</eulaNoButton>
+	<eula>type="txt" path="Data\Eula.txt"</eula>
+-->	  
+	<installHeaderTitle>Installing Signadyne Device Drivers...</installHeaderTitle>
+	<finishTitle>Congratulations! You have finished installing Signadyne Device Drivers.</finishTitle>
+	<finishText>Signadyne Driver installation Finished</finishText>
+
+	<forceIfDriverIsNotBetter/>
+	<suppressAddRemovePrograms/>
+	<deleteBinaries/>
+<!--	  
+	<quietInstall/> 
+-->	
+</dpInst>

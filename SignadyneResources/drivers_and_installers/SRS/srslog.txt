@@ -1,0 +1,12 @@
+Processing SRS001.78D ==> SRS001.asc
+Input File Type: SR785 Display file
+
+
+Processing SRS003.78D ==> SRS003.asc
+Input File Type: SR785 Display file
+
+
+Processing SRS004.78D ==> SRS004.asc
+Input File Type: SR785 Display file
+
+

@@ -1,0 +1,14 @@
+﻿Build started 8/27/2013 11:29:29 AM.
+     1>Project "c:\Users\alberto.echevarria\documents\visual studio 2012\Projects\AWGtestCPP\AWGtestCPP\AWGtestCPP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"c:\Program Files (x86)\Signadyne\Libraries\VisualStudio\Reference Assemblies\VS2012\Signadyne.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\alberto.echevarria\documents\visual studio 2012\Projects\AWGtestCPP\Debug\AWGtestCPP.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\alberto.echevarria\documents\visual studio 2012\Projects\AWGtestCPP\Debug\AWGtestCPP.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         AWGtestCPP.vcxproj -> c:\users\alberto.echevarria\documents\visual studio 2012\Projects\AWGtestCPP\Debug\AWGtestCPP.exe
+     1>Done Building Project "c:\Users\alberto.echevarria\documents\visual studio 2012\Projects\AWGtestCPP\AWGtestCPP\AWGtestCPP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.56
