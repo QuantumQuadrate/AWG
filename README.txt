@@ -1,4 +1,3 @@
-Put the extracted Signadyne folder in C:/Program Files/
+Signadyne AWG Card code and driver installer. 
 
-If the zip extracted into ./Signadyne instead of ./ you will need to move the Signadyne directory
-inside ./Signadyne, not ./Signadyne itself.
+In AWG/SignadyneResources/drivers_and_installers, run the Essentials installer to install the Signadyne drivers. 

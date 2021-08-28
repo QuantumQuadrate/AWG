@@ -2,7 +2,7 @@ import os
 import sys
 import math
 sys.path.insert(0,'C:/Program Files/Signadyne/Libraries/Python')
-import signadyne
+import signadyne_debug
 
 card = signadyne.SD_AOU()
 slot = 17
