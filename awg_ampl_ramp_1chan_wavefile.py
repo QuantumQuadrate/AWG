@@ -71,7 +71,6 @@ else:
     # load the wave into the AWG RAM
     error = card.waveformLoad(wave, 0)
     
-    # 100 MHz
     card.clockSetFrequency(f_clk)
     
     # modulation - amplitude.

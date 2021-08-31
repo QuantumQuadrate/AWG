@@ -48,6 +48,7 @@ if error < 0:
     print("Error =", error)
 else:
 
+    # flush all AWG
     for i in range(4):
         card.AWGflush(i)
 
@@ -72,7 +73,6 @@ else:
     # load the wave into the AWG RAM
     error = card.waveformLoad(wave, 0)
     
-    # 100 MHz
     card.clockSetFrequency(f_clk)
     
     # modulation - amplitude.
