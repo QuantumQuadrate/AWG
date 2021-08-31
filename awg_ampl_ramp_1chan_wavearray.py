@@ -48,6 +48,9 @@ if error < 0:
     print("Error =", error)
 else:
 
+    for i in range(4):
+        card.AWGflush(i)
+
     # trigger setup. only applies if AWGqueueWaveform has the trigger set to EXTTRIG
     card.AWGtriggerExternalConfig(
         nAWG=0,
@@ -96,9 +99,7 @@ else:
         )
     # available waveshapes:
     #AOU_OFF,AOU_SINUSOIDAL,AOU_AWG,AOU_TRIANGULAR,AOU_SQUARE,AOU_DC,AOU_AWG,AOU_PARTNER
-    
-    card.AWGflush(0)
-        
+            
     # queue waveform from RAM
     card.AWGqueueWaveform(
         nAWG=0,

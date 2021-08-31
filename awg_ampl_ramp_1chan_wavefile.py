@@ -49,6 +49,10 @@ if error < 0:
     print("Error =", error)
 else:
 
+    # flush all AWG
+    for i in range(4):
+        card.AWGflush(i)
+
     # trigger setup. only applies if AWGqueueWaveform has the trigger set to EXTTRIG
     card.AWGtriggerExternalConfig(
         nAWG=0,

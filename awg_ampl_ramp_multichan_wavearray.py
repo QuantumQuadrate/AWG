@@ -72,11 +72,12 @@ else:
     
     # clock frequency
     card.clockSetFrequency(f_clk)
+    
+    # flush old waveforms
+    for i in range(4):
+        card.AWGflush(i)
 
     for chan, wfm in zip(channels,waveforms):
-
-        # flush old waveforms
-        card.AWGflush(chan) 
 
         # trigger setup. only applies if AWGqueueWaveform has the trigger set to EXTTRIG
         card.AWGtriggerExternalConfig(
