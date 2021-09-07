@@ -166,5 +166,16 @@ else:
         ax.plot(xpts*(1/f_sample)*1e6, wfm.arr, label=i,color=colors[i])
     ax.legend()
         
-    plt.show()
+    # plt.show()
+    
+    fig, ax = plt.subplots()
+    # ax.set_title('')
+    ax.set_xlabel('real output time [$\mu$s]')
+    ax.set_ylabel('amplitude [arb.]')
+
+    colors = ['yellow','red','cyan','green']
+    for i,wfm in enumerate(waveforms):
+        ax.plot(xpts*(1/f_sample)*1e6, wfm.arr, label=i,color=colors[i])
+    ax.legend()
         
+    plt.show()
